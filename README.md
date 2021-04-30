@@ -1,3 +1,6 @@
+Jika aplikasi tidak berjalan, silahkan request server pada link berikut
+https://cors-anywhere.herokuapp.com/corsdemo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
